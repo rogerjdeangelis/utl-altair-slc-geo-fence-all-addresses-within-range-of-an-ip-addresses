@@ -4,8 +4,10 @@
 
 Altair slc geo fence all addresses within range of an ip addresses
 
-Closest to IPV4 185.253.142.0 (Charter Communications / Spectrum Network? Northen CA ??)
+Too long to post on a list, see github
+https://github.com/rogerjdeangelis/utl-altair-slc-geo-fence-all-addresses-within-range-of-an-ip-addresses
 
+Closest to IPV4 185.253.142.0 (Charter Communications / Spectrum Network? Northen CA ??)
                                                                         From                    From
                                                                       IPV4 Dtabase         Address Dtabase
                                                                    ------------------    --------------------
