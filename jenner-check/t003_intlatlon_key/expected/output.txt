@@ -1,0 +1,4 @@
+
+  Obs  intlatlon       start_ip     city       state  dup_group_size   avglat    avglon
+-----  ---------  -------------  -------  ----------  --------------  -------  --------
+    1  37-121     185.253.142.0  Fremont  California               1  37.5483  -121.989

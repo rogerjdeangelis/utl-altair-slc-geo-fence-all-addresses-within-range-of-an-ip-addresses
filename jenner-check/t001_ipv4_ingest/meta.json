@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_ipv4_ingest",
+  "source_file": "utl-altair-slc-geo-fence-all-addresses-within-range-of-an-ip-addresses.sas",
+  "source_blob_sha": "37321b2017b082e3b5d3845428fba476ddf3fafb",
+  "source_commit": "2f935f53b9736d955c6871801869c4adeb8ff6b0",
+  "notes": "Step 2 ipv4 csv->wpd: same INFORMAT/INPUT layout and if country_code=:'US' subset; external 520MB CSV replaced by 6 inline rows from the author's captured PROC PRINT (Canada row present to show the =: subset drops it)."
+}

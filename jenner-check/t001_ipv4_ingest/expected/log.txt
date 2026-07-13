@@ -1,0 +1,15 @@
+
+NOTE: Option OBS changed to 100.
+NOTE: Option VALIDVARNAME changed to V7.
+NOTE: DATA ipv4
+
+NOTE: Processing inline DATALINES (6 lines)
+
+NOTE: Read 6 rows from DATALINES.
+NOTE: Wrote ipv4 (5 rows, 14 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=ipv4
+
+NOTE: PROC PRINT completed: 5 observations printed, 14 variables

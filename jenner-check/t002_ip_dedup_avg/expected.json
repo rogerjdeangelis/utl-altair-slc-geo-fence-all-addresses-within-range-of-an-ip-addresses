@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-13T03:31:02.202356+00:00",
+  "_captured_run_id": "r_30759f700a41465cb19506b6b340c65a",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Table ipIdx created.",
+    "NOTE: PROC PRINT completed: 5 observations printed, 6 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
