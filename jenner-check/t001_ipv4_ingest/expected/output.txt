@@ -1,0 +1,8 @@
+
+  Obs       start_ip           end_ip  continent  country_code        country       state        city    zip     source             timezone  ip_version  latitude  longitude  accuracy
+-----  -------------  ---------------  ---------  ------------  -------------  ----------  ----------  -----  ---------  -------------------  ----------  --------  ---------  --------
+    1  1.32.232.0     1.32.239.255     NA         US            United States  DC          Washington  56972  whois      America/New_York              4   38.8951   -77.0364         5
+    2  1.178.1.0      1.178.1.255      NA         US            United States  Ohio        Boardman    44512  amazonaws  America/New_York              4   41.0242   -80.6629         5
+    3  1.178.4.0      1.178.5.255      NA         US            United States  Virginia    Ashburn     20598  amazonaws  America/New_York              4   39.0437   -77.4875         5
+    4  1.178.8.0      1.178.8.255      NA         US            United States  Ohio        Columbus    43215  amazonaws  America/New_York              4   39.9612   -82.9988         5
+    5  185.253.142.0  185.253.142.255  NA         US            United States  California  Fremont     94538  charter    America/Los_Angeles           4   37.5483   -121.989         5

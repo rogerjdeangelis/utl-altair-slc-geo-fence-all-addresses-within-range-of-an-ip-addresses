@@ -1,0 +1,21 @@
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA fence
+
+NOTE: Processing inline DATALINES (8 lines)
+
+NOTE: Read 8 rows from DATALINES.
+NOTE: Wrote fence (8 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=fence
+
+NOTE: PROC PRINT completed: 8 observations printed, 4 variables
+NOTE: Option LS changed to 64.
+NOTE: Option PS changed to 44.
+NOTE: PROC PLOT data=fence
+
+NOTE: PROC PLOT produced 1 plot(s) from 8 observations.
+NOTE: Option LS changed to 255.
+NOTE: Option PS changed to 255.

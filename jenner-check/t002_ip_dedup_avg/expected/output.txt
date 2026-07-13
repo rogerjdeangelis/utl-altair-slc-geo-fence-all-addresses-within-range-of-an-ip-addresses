@@ -1,0 +1,8 @@
+
+  Obs       start_ip  dup_group_size      city       state   avglat    avglon
+-----  -------------  --------------  --------  ----------  -------  --------
+    1  1.178.1.0                   1  Boardman  Ohio        41.0242  -80.6629
+    2  1.178.30.0                  1  Boardman  Ohio        41.0242  -80.6629
+    3  1.178.4.0                   2  Ashburn   Virginia    39.0437  -77.4875
+    4  1.178.8.0                   1  Columbus  Ohio        39.9612  -82.9988
+    5  185.253.142.0               1  Fremont   California  37.5483  -121.989

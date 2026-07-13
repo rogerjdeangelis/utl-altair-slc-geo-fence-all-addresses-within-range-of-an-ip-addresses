@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_ip_dedup_avg",
+  "source_file": "utl-altair-slc-geo-fence-all-addresses-within-range-of-an-ip-addresses.sas",
+  "source_blob_sha": "37321b2017b082e3b5d3845428fba476ddf3fafb",
+  "source_commit": "2f935f53b9736d955c6871801869c4adeb8ff6b0",
+  "notes": "Step 4 fix dups: same count(*)/avg(latitude)/avg(longitude) grouped by START_IP; inline sample from author's SD1.IPIDX output; dropped 'max(start_ip) as start_ip' self-collision by selecting the GROUP BY key directly."
+}
